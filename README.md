@@ -1,5 +1,5 @@
 # GUITARISCV
-Final Project for CPE233 Cal Poly SLO 2020
+Final Project for CPE233 Cal Poly SLO 2020 Dr Paul Hummel
 ## Introduction
 The game is essentially a rhythm game, where you have to time tapping keys with “notes” coming down from the top of the screen. It is similar to popular modern games such as Guitar Hero, or the mobile games where you tap on the screen in time with the music. It does not have levels, but each game is different because the notes come down randomly every time. To play the game, a keyboard is required as well as a vga display. The game is lightweight and operates on a 50MHz OTTER processor.
 
